@@ -1,0 +1,134 @@
+PAGE 1 (Obj 274): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨ G. T ổ ng qukt b g th 
+PAGE 2 (Obj 302): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℩ o K ạ o v qu ả n lý h{\ đơn th\nh to n cho kh ch+ b\
+PAGE 3 (Obj 305): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g K GGG. Chg tg ế t b g th ự c h nh cho bu ổ g 2 1. X
+PAGE 4 (Obj 388): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Å // btnThemMoi // btnThemMoi.BackCol
+PAGE 5 (Obj 495): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℬ ClientSize = new Size \(961, 784\ Controls. Add 
+PAGE 6 (Obj 553): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℭ private void btnXuatExcel_Click\(object sender, EventArgs e\ 
+PAGE 7 (Obj 613): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℮ MessageBoxButtons.YesNo, MessageBoxIcon.Information\ 
+PAGE 8 (Obj 649): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℯ XoaDichVu\(maDV\ LoadDanhSachDichVu
+PAGE 9 (Obj 695): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℰ .OrderBy\(d => d.MaDv\ .Select\(d =
+PAGE 10 (Obj 736): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨϵ var dichVu = db.DichVus.FirstOrDefault\(d => d.MaDv == maDV &
+PAGE 11 (Obj 789): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℨ Mã ngu ồ n th\m kh ả o trong file FormKhem Dich;u Designercs t ạ m th ờ i 
+PAGE 12 (Obj 865): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨ℩ label2 = new Label\(\ txtTenDV = new TextBox
+PAGE 13 (Obj 950): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨK cbLoaiDV.Name = "cbLoaiDV" ; cbLoaiDV.Size = new
+PAGE 14 (Obj 1030): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨÅ txtTenDV.Size = new Size\(290, 30\ txtTenDV.Tab
+PAGE 15 (Obj 1094): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℬ #endregion private System.Windows.Forms. Button btnT
+PAGE 16 (Obj 1164): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℭ { using var db = new HotelManagementC
+PAGE 17 (Obj 1249): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨ℮ return ; } if \( loaiDV .Le
+PAGE 18 (Obj 1317): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℯ daCo .TenDv = tenDV ; daCo .DonGi
+PAGE 19 (Obj 1371): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℰ Mã ngu ồ n th\m kh ả o trong file FormSu\ Dich;u Designercs t ạ m th ờ i n
+PAGE 20 (Obj 1385): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℩ϵ panel1.SuspendLayout\(\ SuspendLayout\(\ 
+PAGE 21 (Obj 1409): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℩ℨ ⃒D⇲ᾙhỻ∀t― ῿gt―Ҹ⃒ , ⃒⇺ŝÅŶƷĂ⃒ , ⃒D⇲ᾙhỻ∀kĂ―Ă ke⃒ , ⃒D⇲ᾙhỻ∀ph∀ᾙỻ∀p
+PAGE 22 (Obj 1419): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℩℩ txtTenDV.Font = new Font\( "Microsoft Sans Serif" , 12F, FontS
+PAGE 23 (Obj 1428): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℩K using Microsoft.EntityFrameworkCore; namespace HotelManagement.DichVu 
+PAGE 24 (Obj 1484): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℩Å dsLoai . Add \( ten \ } 
+PAGE 25 (Obj 1530): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℩ℬ return ; } if \(! decimal .
+PAGE 26 (Obj 1553): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℩ℭ } } private voi
+PAGE 27 (Obj 1565): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℩℮ /// Clean up any resources being used. /// </summary> 
+PAGE 28 (Obj 1646): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℩ℯ this .btnXuatExcel.Text = ⃒ἂƵ⇟tfŝleEǇᾙel⃒ ; thi
+PAGE 29 (Obj 1708): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℩ℰ using System.ComponentModel; using System.Data; using System.Drawing
+PAGE 30 (Obj 1778): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Kϵ private void LoadDanhSachTienNghi \( string tuKhoa = "" \ 
+PAGE 31 (Obj 1843): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Kℨ saveDialog .Title = ⃒ἂƵ⇟tdĂ῿hsᾍᾙhtŝ⇰῿῿ghŝ⃒ ; 
+PAGE 32 (Obj 1929): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g K℩ private void dtgDanhSachTienNghi_CellClick \( object sender , 
+PAGE 33 (Obj 1967): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g KK catch \( Exception ex \ { M
+PAGE 34 (Obj 1984): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g KÅ /// <param name=" disposing "> true if managed resources should b
+PAGE 35 (Obj 2030): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Kℬ btnThoat.Font = new Font \( "Microsoft Sans Serif" , 12F, Fon
+PAGE 36 (Obj 2067): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Kℭ private System.Windows.Forms. Label LabelThemTienNghi; 
+PAGE 37 (Obj 2096): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g K℮ txtTenTN. Focus \(\ return ; 
+PAGE 38 (Obj 2120): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Kℯ Bư Ӡ c 1 2 : Khi ế t k ế gi\o di ệ n FormSu\ KienNghi cs theo m ẫ u như s
+PAGE 39 (Obj 2125): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Kℰ btnThoat.TabIndex = 22; btnThoat.Text = "Tho�t" ;
+PAGE 40 (Obj 2200): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Åϵ Load += FormSuaTienNghi_Load ; ResumeLayout \( fa
+PAGE 41 (Obj 2222): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Åℨ MessageBox . Show \( ⃒Kh ῿gtşŶth⇟ἂtŝ⇰῿῿ghŝᾙ⇠῿ᾙҩp῿h
+PAGE 42 (Obj 2276): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Å℩ if \( kq > 0\ 
+PAGE 43 (Obj 2320): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ÅK { /// <summary> /// Required designer variable.
+PAGE 44 (Obj 2341): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ÅÅ this .btnXuatExcel.BackColor = System.Drawing. Color .DarkTurquoi
+PAGE 45 (Obj 2358): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Åℬ Bư Ӡ c 4 : S; s ử d ụ ng mã ngu ồ n t ạ m th ờ i s\u đ ể x ử lý ch ứ c
+PAGE 46 (Obj 2395): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Åℭ suaCol.Name = "Sua"; sƵĂC lₓ;eĂde―TeǇt=⃒S∅Ă⃒ₑ 
+PAGE 47 (Obj 2440): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Å℮ kh.QuocTich, kh.GioiTinh, 
+PAGE 48 (Obj 2470): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Åℯ worksheet.Columns\(\\ workbook.S
+PAGE 49 (Obj 2499): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g Åℰ } } return; 
+PAGE 50 (Obj 2526): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℬϵ Bư Ӡ c 6 : Click chu ộ t ph ả i v o folder 1hHchHHng → ,dd → Forms W
+PAGE 51 (Obj 2557): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℬℨ panel1 = new Panel\(\ txtMaKH = new TextBox\(\ 
+PAGE 52 (Obj 2603): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℬ℩ panel1.Controls.Add\(label1\ panel1.Controls.Add\(
+PAGE 53 (Obj 2650): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℬK label3.AutoSize = true; label3.Font = new Font\("M
+PAGE 54 (Obj 2695): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℬÅ label5.Location = new Point\(104, 99\ label5.Name 
+PAGE 55 (Obj 2732): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℬℬ { InitializeComponent\(\ btnThoat.Dialo
+PAGE 56 (Obj 2789): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℬℭ if \( string . IsNullOrEmpty \( maKH \ { 
+PAGE 57 (Obj 2824): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℬ℮ }; db .KhachHangs. Add \( khachHang \ 
+PAGE 58 (Obj 2833): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℬℯ /// <summary> /// Clean up any resources being used. 
+PAGE 59 (Obj 2855): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℬℰ btnThoat.Click += btnThoat_Click; // 
+PAGE 60 (Obj 2867): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℭϵ cbGioiTinh.Name = "cbGioiTinh"; cbGioiTinh.Size = 
+PAGE 61 (Obj 2903): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℭℨ // // label1 // la
+PAGE 62 (Obj 2910): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℭ℩ private System.Windows.Forms.Label label2; private System.
+PAGE 63 (Obj 2925): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℭK k .CccdPassport, k .QuocTi
+PAGE 64 (Obj 2949): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℭÅ { MessageBox . Show \( ⃒tƵŝlƀ῿gᾙh⇳῿gŝ⇻ŝtῨ῿
+PAGE 65 (Obj 2966): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℭℬ if \(! char . IsControl \( e .KeyChar\ char . IsDigit \( e .Key
+PAGE 66 (Obj 2970): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℭℭ { btnThemMoi = new Button \(\ dtgDan
+PAGE 67 (Obj 2998): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℭ℮ pictureBox1.Margin = new Padding \(3, 4, 3, 4\ 
+PAGE 68 (Obj 3012): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℭℯ } private void KhoiTaoBangDuLieu\(\ { 
+PAGE 69 (Obj 3051): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℭℰ } using var db = new HotelManagementCont
+PAGE 70 (Obj 3086): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℮ϵ } private void dtgDanhSachNhanVien_CellClick\(object sen
+PAGE 71 (Obj 3108): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℮ℨ if \(kq > 0\ { 
+PAGE 72 (Obj 3134): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℮℩ } worksheet.Columns\(\\ 
+PAGE 73 (Obj 3145): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℮K Mã ngu ồ n th\m kh ả o trong file FormKhem Nh\n;ien Designercs t ạ m th ờ 
+PAGE 74 (Obj 3169): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℮Å label7 = new Label\(\ label3 = new Label\(\ 
+PAGE 75 (Obj 3188): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℮ℬ panel1.Controls.Add\(label3\ panel1.Controls.Add\(
+PAGE 76 (Obj 3225): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℮ℭ // label9 // label9.AutoSize = tru
+PAGE 77 (Obj 3268): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℮℮ txtLuong.Font = new Font\("Microsoft Sans Serif", 12F, FontStyle.
+PAGE 78 (Obj 3301): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℮ℯ label1.AutoSize = true; label1.Font = new Font\("M
+PAGE 79 (Obj 3323): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℮ℰ private System.Windows.Forms.Label label8; private System.
+PAGE 80 (Obj 3358): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℯϵ private bool IsValidEmail \( string email \ { 
+PAGE 81 (Obj 3417): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℯℨ MessageBox . Show \( ⃒EŶĂŝlkh ῿gđỲ῿gđ⇲῿hdҥ῿gₓ⃒ , "Th�ng 
+PAGE 82 (Obj 3459): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℯ℩ int kq = db . SaveChanges \(\ if 
+PAGE 83 (Obj 3465): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℯK /// Clean up any resources being used. /// </summary> 
+PAGE 84 (Obj 3479): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℯÅ btnThoat.Margin = new Padding\(3, 4, 3, 4\ btnThoa
+PAGE 85 (Obj 3483): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℯℬ label11.Location = new Point\(601, 291\ label11.Na
+PAGE 86 (Obj 3484): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℯℭ label8.Name = "label8"; label8.Size = new Size\(79
+PAGE 87 (Obj 3485): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℯ℮ label7.Size = new Size\(72, 26\ label7.TabIndex = 
+PAGE 88 (Obj 3486): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℯℯ lĂĐelℬₓTeǇt=⃒;⇳ỻĆtᾪ῿⃒ₑ // // F
+PAGE 89 (Obj 3492): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℯℰ namespace HotelManagement.NhanVien { public partial class For
+PAGE 90 (Obj 3514): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℰϵ .FirstOrDefault\(\ if \(nhanVien =
+PAGE 91 (Obj 3543): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℰℨ return false ; } } 
+PAGE 92 (Obj 3546): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℰ℩ try { using var db = n
+PAGE 93 (Obj 3563): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℰK { MessageBox . Show \( ⃒L⇸ŝkhŝᾙҩp῿hҩt῿hᾎ῿
+PAGE 94 (Obj 3568): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℰÅ /// Required designer variable. /// </summary> 
+PAGE 95 (Obj 3602): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℰℬ lblTenLoaiPhong.Location = new Point \(306, 90\ 
+PAGE 96 (Obj 3626): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℰℭ using System; using System.Collections.Generic; using System.Compone
+PAGE 97 (Obj 3667): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℰ℮ dtgDanhSachTienNghiTheoLoaiPhong.Columns[ "SL" ].DefaultCellStyle
+PAGE 98 (Obj 3693): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℰℯ dtgDanhSachTienNghiTheoLoaiPhong.Rows[ viTri ].Cells[
+PAGE 99 (Obj 3735): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℰℰ { MessageBox . Show \( ⃒Kh ῿gtşŶth⇟ἂ
+PAGE 100 (Obj 3745): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨϵϵ Mã ngu ồ n th\m kh ả o trong file FormKhemChiKietKienNghi Designercs t ạ
+PAGE 101 (Obj 3751): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨϵℨ txtSoLuong.Font = new Font \( "Microsoft Sans Serif" , 12F, 
+PAGE 102 (Obj 3777): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨϵ℩ btnCapNhat.Text = ⃒ThᾪŶŶ⇻ŝ⃒ ; btnCapNhat.UseVis
+PAGE 103 (Obj 3803): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨϵK { private string maLPH = string .Empty; pub
+PAGE 104 (Obj 3823): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨϵÅ DialogResult = DialogResult .Cancel; 
+PAGE 105 (Obj 3852): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨϵℬ } else { 
+PAGE 106 (Obj 3856): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨϵℭ Mã ngu ồ n th\m kh ả o trong file FormSu\ChiKietKienNghi Designercs t ạ 
+PAGE 107 (Obj 3861): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨϵ℮ // // btnThoat // 
+PAGE 108 (Obj 3873): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨϵℯ txtTenTN.Font = new Font \( "Microsoft Sans Serif" , 12F, Fo
+PAGE 109 (Obj 3883): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨϵℰ namespace HotelManagement.ChiTietTienNghi { public partial c
+PAGE 110 (Obj 3911): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℨϵ MessageBox . Show \( ⃒tƵŝlƀ῿g῿hҩpsӂhӌpl⇰!⃒ , ⃒L⇸ŝ⃒ , 
+PAGE 111 (Obj 3919): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℨℨ using ClosedXML.Excel; using HotelManagement.ChiTietTienNghi; using Hotel
+PAGE 112 (Obj 3938): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℨ℩ object? giaTri = cacDong[i].Cells[tenCot[c]]
+PAGE 113 (Obj 3954): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℨK if \(string.IsNullOrEmpty\(maLPH\ return; 
+PAGE 114 (Obj 3989): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℨÅ dtgDĂ῿hSĂᾙhL ĂŝPh ῿gₓC lƵŶ῿sₓ ddͿTĂ C t ῿hͿ⃒ᾙ lTŝe῿Ỏghŝ⃒͘⃒Tŝ⇰῿
+PAGE 115 (Obj 4015): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℨℬ private void LocTheoTuKhoa\(\ { string k
+PAGE 116 (Obj 4028): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℨℭ protected override void Dispose\(bool disposing\ { 
+PAGE 117 (Obj 4073): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℨ℮ this.label6.Size = new System.Drawing.Size\(138, 29\ 
+PAGE 118 (Obj 4122): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℨℯ this.txtSoDienThoai.Size = new System.Drawing.Size\(199, 30\ 
+PAGE 119 (Obj 4165): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨℨℰ this.label5.Font = new System.Drawing.Font\("Microsoft Sans Seri
+PAGE 120 (Obj 4219): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨ℩ϵ //this.dtgDanhSachPhongDaChon.CellClick += new System.Windows.F
+PAGE 121 (Obj 4276): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨ℩ℨ "AM", "PM"}\ this.cbDangGioDen.Loc
+PAGE 122 (Obj 4308): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨ℩℩ this.dtpNgayKT.Location = new System.Drawing.Point\(145, 133\ 
+PAGE 123 (Obj 4357): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨ℩K // this.button2.Font = new System.Drawing.Font\(
+PAGE 124 (Obj 4401): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨ℩Å private System.Windows.Forms.Label label14; private Syste
+PAGE 125 (Obj 4432): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨ℩ℬ dtpNgayBD.MinDate = DateTime.Today; CapNhatNgay
+PAGE 126 (Obj 4479): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨ℩ℭ dtgDanhSachPhongDaChon.Columns["NgayKetThuc"]!.DefaultCellStyle.
+PAGE 127 (Obj 4505): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨ℩℮ .OrderBy\(p => p.MaPh\ .Select\(p
+PAGE 128 (Obj 4535): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨ℩ℯ EessĂge ǇₓSh vͿ⃒ỎgĆἂt―⇞phƀ῿gph⇞ŝsĂƵ῿gĆἂ῿hҩ῿phƀ῿g!⃒͘
+PAGE 129 (Obj 4573): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨ℩ℰ txtQuocTich.Enabled = choPhep; cbGioiTinh.Enabled
+PAGE 130 (Obj 4609): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨKϵ th― v῿evI῿ỻĂlŝdOpe―Ătŝ ῿EǇᾙeptŝ ῿Ϳ$⃒Đᾏh⇬tŶᾏᾙ tŝ⇭῿tӂ₽
+PAGE 131 (Obj 4651): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨKℨ maKH = khachHang.MaKh; if \(kha
+PAGE 132 (Obj 4695): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨK℩ decimal donGia = phong.MaLphNavigation.GiaNgay; 
+PAGE 133 (Obj 4735): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨKK if \(txtHoVaTen.Text.Trim\(\ { 
+PAGE 134 (Obj 4764): L ậ p trình tr ự c quHn ThsₓỎgƵἂ ⇯ ῿Thŝ ⇰ ῿D∂⇺῿g  T―Ă῿g ℨKÅ Bư Ӡ c 4 : S; s ử d ụ ng mã ngu ồ n t ạ m th ờ i s\u đ ể x ử lý ch ứ 
