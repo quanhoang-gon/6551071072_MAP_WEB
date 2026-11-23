@@ -480,3 +480,15 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Lab scratch / temp files (AI-generated during development)
+*.ps1
+lab2_docs/
+extracted_pdf_text.txt
+forms_text.txt
+lab2_decoded_all.txt
+lab2_full_text.txt
+lab2_table_of_contents.txt
+page1_form274.txt
+pdf_text.txt
+sec*.txt
